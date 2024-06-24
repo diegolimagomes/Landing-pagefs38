@@ -24,10 +24,10 @@ Para clonar a aplicação, você vai precisar do [Git](https://git-scm.com) inst
 Use os seguintes comandos:
 
 ```bash
-# Clone this repository
+# Clone this repository #
 $ git clone git@github.com:diegolimagomes/Landing-pagefs38.git
 
-# Go into the repository
+# Go into the repository #
 $ cd Landing-pagefs38
 
 ```
