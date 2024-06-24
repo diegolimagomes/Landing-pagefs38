@@ -15,7 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="45"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="45"> &nbsp;
 
-
 ---
 
 ### :information_source: Como testar os códigos
@@ -31,4 +30,3 @@ $ git clone git@github.com:diegolimagomes/Landing-pagefs38.git
 $ cd Landing-pagefs38
 
 ```
-
