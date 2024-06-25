@@ -130,7 +130,7 @@ li {
   margin-bottom: 80px;
 }
 
-.icone {
+.icons {
   width: 36px;
   height: 36px;
   margin-bottom: 10px;
@@ -357,7 +357,7 @@ hr {
   color: #929ecc;
 }
 
-.icons {
+.social-icons {
   display: flex;
   margin-top: 20px;
   margin-right: 40px;
