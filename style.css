@@ -23,7 +23,7 @@ li {
   padding: 20px;
 }
 
-.lista-ul {
+.list-ul {
   display: flex;
   gap: 20px;
   margin-left: 165px;
@@ -48,7 +48,7 @@ li {
   height: 26px;
 }
 
-.textos {
+.text {
   display: block;
   width: 539.37px;
   height: 421px;
@@ -97,12 +97,12 @@ li {
   border-color: #091133;
 }
 
-.dividir-img-tx {
+.image-text-split {
   display: flex;
   gap: 90px;
   justify-content: space-between;
 }
-.image-principal {
+.primary-image {
   width: 500px;
   height: 500px;
   top: 275px;
@@ -110,7 +110,7 @@ li {
   margin-bottom: 86px;
 }
 
-.textos-pag2 {
+.text-pag2 {
   display: block;
   width: 539.37px;
   height: 204px;
@@ -172,7 +172,7 @@ li {
   margin-bottom: 135px;
 }
 
-.dividir-img-tx {
+.image-text-split {
   display: flex;
 }
 
@@ -184,7 +184,7 @@ li {
   margin-bottom: 131px;
 }
 
-.textos-page-3 {
+.text-page-3 {
   width: 445px;
   height: 228px;
   margin-right: 80px;
@@ -211,7 +211,7 @@ li {
   margin-bottom: 114.24px;
 }
 
-.textos-page-4 {
+.text-page-4 {
   width: 445px;
   height: 228px;
   margin-right: 80px;
@@ -228,7 +228,7 @@ li {
   margin-bottom: 114.24px;
 }
 
-.textos-page-5 {
+.text-page-5 {
   width: 445px;
   height: 250px;
   margin-right: 80px;
@@ -256,7 +256,7 @@ li {
   justify-content: center;
 }
 
-.containe-page6 {
+.container-page6 {
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -357,7 +357,7 @@ hr {
   color: #929ecc;
 }
 
-.icones {
+.icons {
   display: flex;
   margin-top: 20px;
   margin-right: 40px;
@@ -381,7 +381,7 @@ hr {
     justify-content: space-around;
   }
 
-  .lista-ul {
+  .list-ul {
     flex-direction: row;
     gap: 15px;
     margin-left: 0;
@@ -391,7 +391,7 @@ hr {
     margin-right: 0;
   }
 
-  .dividir-img-tx {
+  .image-text-split {
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -404,21 +404,21 @@ hr {
     margin-left: 20%;
   }
 
-  .textos-page-3 {
+  .text-page-3 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-left: 20%;
   }
 
-  .textos-page-4 {
+  .text-page-4 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-left: 20%;
   }
 
-  .textos-page-5 {
+  .text-page-5 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -427,23 +427,23 @@ hr {
 }
 
 @media (max-width: 800px) {
-  .textos {
+  .text {
     width: 60%;
   }
 
-  .textos-pag2 {
+  .text-pag2 {
     width: 60%;
   }
 
-  .textos-page-3 {
+  .text-page-3 {
     width: 60%;
   }
 
-  .textos-page-4 {
+  .text-page-4 {
     width: 60%;
   }
 
-  .imagem-page5 {
+  .image-page5 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
